@@ -1,0 +1,14 @@
+{
+  "name": "mixamo-godot-local-ui-v6",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Local web UI for combining Mixamo character and animations into a textured Godot-friendly GLB using Blender via uploads.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2"
+  }
+}

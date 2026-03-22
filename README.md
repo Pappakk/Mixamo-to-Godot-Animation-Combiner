@@ -99,4 +99,4 @@ MIT (or same as your repo — update this section accordingly)
 
 ---
 
-Now go make your Swedish countryside simulator instead of debugging FBX files for 3 hours.
+Now go make games instead of debugging FBX files for 3 hours.
